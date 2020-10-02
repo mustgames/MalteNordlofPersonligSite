@@ -1,0 +1,43 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-family: "Anonymous Pro", monospace;
+}
+header {
+  background-color: purple;
+  padding: 30px;
+}
+h1 {
+  background-color: purple;
+  padding-bottom: 30px;
+}
+footer {
+  background-color: grey;
+  padding: 30px;
+}
+h2 {
+  padding: 150px;
+}
+nav {
+  display: flex;
+  justify-content: center;
+}
+a {
+  color: green;
+}
+nav li {
+  list-style: none;
+  display: inline-block;
+  padding: 15px;
+  color: white;
+}
+
+footer p {
+  background-color: grey;
+}
+footer a {
+  background-color: grey;
+}
